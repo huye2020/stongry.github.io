@@ -3,7 +3,7 @@ layout: page
 title: 关于我 
 ---
 
-一个 iOS SDK 开发者，喜欢研究一些新技术。
+喜欢研究一些新技术的学渣。
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
 <p>
@@ -41,9 +41,9 @@ title: 关于我
 <h3> 如何联系我 </h3>  
 
 <p> 
-email：leoparpan@icloud.com       
+email：stongry@stongry.me       
 <p> 
-qq: 1499065178     
+qq: 2594887742     
 <p> 
 如果有 搭建博客 或者 移动端 技术的问题可以一起讨论.
 <p> 
